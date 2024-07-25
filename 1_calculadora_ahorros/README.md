@@ -1,3 +1,5 @@
+<p align="center">INFORMACIÓN</p>
+
 ESP:
 
 Calculadora muy sencilla que nos muestra cuanto podemos ahorrar en 1 año en base a nuestro gasto semanal
